@@ -1,7 +1,7 @@
 {
   "scensNumber": 5,
   "stepsNumber": 30,
-  "framework": "cypress",
+  "frameworks":["cypress", "kraken"],
   "options":{
     "output": {
       "errorColor": {

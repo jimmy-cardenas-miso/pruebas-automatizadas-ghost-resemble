@@ -28,7 +28,7 @@ npm install
 ```
 
 ## Run
-1. Save screenshots on `./screenshots/*` and named  `v3.X.X_esc_X_step_X.png`
+1. Save screenshots on `./screenshots/[cypress, kraken]/[v3.3.0, v3.42.5]/*` and named  `v3.X.X_esc_X_step_X.png`
 2. Run script
 ```bash
 npm run start
