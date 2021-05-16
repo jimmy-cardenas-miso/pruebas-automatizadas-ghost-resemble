@@ -1,5 +1,5 @@
 {
-  "scensNumber": 5,
+  "scensNumber": 20,
   "stepsNumber": 30,
   "frameworks":["cypress", "kraken"],
   "options":{
