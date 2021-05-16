@@ -1,0 +1,1 @@
+# pruebas-automatizadas-ghost-resemble
