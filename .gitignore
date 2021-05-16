@@ -105,3 +105,4 @@ dist
 
 # Framework
 .idea/*
+.DS_Store
