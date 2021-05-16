@@ -33,7 +33,7 @@ npm install
 ```bash
 npm run start
 ```
-3. Open ande deploy file `./results/report.html` to show compare results
+3. Open and deploy file `./results/report.html` to show compare results
 
 ## Integrantes
 
