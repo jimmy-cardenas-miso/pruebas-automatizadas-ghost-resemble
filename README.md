@@ -14,6 +14,14 @@
   <img src="https://thesoftwaredesignlab.github.io/KrakenMobile/assets/imgs/kraken.png"/>
 </p>
 
+## Repositorios
+[Repositorio Cypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
+
+[Repositorio Kraken](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost)
+
+[Repositorio Backstop](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop)
+
+
 ## Installing
 
 [![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
